@@ -45,6 +45,6 @@
 
 ## 6. Doc & Video
 + ### Docs
-  * [Report](doc/PPT.pptx)
+  * [PPT](doc/PPT.pptx)
 + ### Video
   * [URL](https://www.youtube.com/watch?v=arkPlT1O-zo&feature=youtu.be)
